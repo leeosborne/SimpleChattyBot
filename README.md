@@ -8,3 +8,5 @@ A simple chatty bot written in Java as part of JetBrains Academy Java learning p
   <li>Control flow statements</li>
   <li>Methods</li>
 </ul>
+
+The main Java project is listed under <b>bot</b> and <b>Problems</b> contains a number of practice tasks completed during the course of the project.
